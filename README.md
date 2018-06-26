@@ -1,2 +1,0 @@
-# reacttut
-Created with CodeSandbox
